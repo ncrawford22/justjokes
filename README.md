@@ -4,8 +4,9 @@ Just Jokes is a simple joke generating app built using React to fetch and manipu
 
 The APIs that were used for this project were:
 
-https://rapidapi.com/anton12341/api/yo-mama-jokes
-https://icanhazdadjoke.com/
+- APIs
+    - https://rapidapi.com/anton12341/api/yo-mama-jokes
+    - https://icanhazdadjoke.com/
 
 # Technologies Used
 
@@ -18,6 +19,8 @@ npm install to install the necessary dependancies.
 Create a .env file in the root folder of the project and add the following line: REACT_APP_API_TOKEN= Place API Here (Navigate to rapidapi.com, create an account, then navigate to the API linked above to get an API Key).
 
 npm start to launch server
+
+** _redirects file may be necessary to render page if using React Router **
 
 
 # Routes
