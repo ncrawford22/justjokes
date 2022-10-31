@@ -10,7 +10,7 @@ The APIs that were used for this project were:
 
 # Technologies Used
 
-JavaScript, React Js, CSS, and Bootstrap
+JavaScript, React, CSS, and Bootstrap
 
 # Run Locally
 
@@ -34,8 +34,8 @@ npm start to launch server
 # Challenges
 
 - The search bar
- - The API was actually down when I intially started the project.
- - Actully had forgot to pass the state for the search field.
+    - The API was actually down when I intially started the project.
+    - Actully had forgot to pass the state for the search field.
 - APIs with endpoints behind paywalls
 
 # Check it Out Here:
